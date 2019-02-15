@@ -1,3 +1,6 @@
+# Cusomer Ignore
+.idea/
+
 # Prerequisites
 *.d
 
